@@ -1,0 +1,17 @@
+.ui-button {
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.ui-button-primary {
+  background: #1f3a24;
+  color: white;
+}
+
+.ui-button-secondary {
+  background: #e5e7eb;
+  color: #111827;
+}
